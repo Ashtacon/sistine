@@ -13,6 +13,13 @@ clone my repository and change your directory
   git clone https://github.com/Ashtacon/sistine.git
   cd sistine
 ```
+### install the library first
+
+```bash
+  npm init -y
+  npm install mqtt express express-ws ejs
+```
+
 and run it
 ```bash
   npm run dev
