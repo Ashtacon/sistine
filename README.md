@@ -7,12 +7,12 @@ A MQTT Dashboard project created using Node.js, MQTT.js, Express.js, and EJS.
 ## Introduction
 SISTINE stands for 
 
-- SI mple
-- S ystem
-- T o
-- I nteracting from mqtt In broker-mqtt with
-- N ode.js and
-- E xpress.js
+- SImple
+- System
+- To
+- Interacting from mqtt public broker with
+- Node.js and
+- Express.js
 
 and of course Sistine is the name of one of my waifu ^^
 
