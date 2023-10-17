@@ -12,7 +12,7 @@ This MQTT Dashboard is designed to help you visualize and control MQTT-connected
 
 Before getting started, ensure you have the following:
 
-- ESP32 or Arduino connected to an MQTT broker (for example, [Wokwi](https://wokwi.com/)).
+- ESP32 or Arduino connected to an MQTT broker (for example, [Wokwi](https://wokwi.com/projects/378161879391277057)).
 - MQTT Broker configuration:
 
 ```cpp
