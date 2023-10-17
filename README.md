@@ -15,7 +15,7 @@ clone my repository and change your directory
 ```
 and run it
 ```bash
-    npm run dev
+  npm run dev
 ```
 
 ## thanks dont forget the star
