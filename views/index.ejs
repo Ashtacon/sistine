@@ -1,0 +1,25 @@
+<!-- index.ejs -->
+<% let newTemp = (temperatureData && temperatureData.length > 0) ? temperatureData[temperatureData.length - 1].message : 'No temperature data available' %>
+<% let newHumidity = (humidityData && humidityData.length > 0) ? humidityData[humidityData.length - 1].message : 'No humidity data available' %>
+<% let newRelay = (relayData && relayData.length > 0) ? relayData[relayData.length - 1].message : 'No relay data available' %>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%= title %></title>
+</head>
+<body>
+  <h1><%= title %></h1>
+
+  <h2>Temperature Data</h2>
+  <ul>
+    <li><%= newTemp %></li>
+  </ul>
+
+  <h2>Humidity Data</h2>
+  <ul>
+    <li><%= newHumidity %></li>
+  </ul>
+</body>
+</html>
