@@ -5,6 +5,16 @@
 A MQTT Dashboard project created using Node.js, MQTT.js, Express.js, and EJS.
 
 ## Introduction
+SISTINE stands for 
+
+- SI mple
+- S ystem
+- T o
+- I nteracting from mqtt In broker-mqtt with
+- N ode.js and
+- E xpress.js
+
+and of course Sistine is the name of one of my waifu ^^
 
 This MQTT Dashboard is designed to help you visualize and control MQTT-connected devices easily. With this dashboard, you can monitor and manage your IoT devices in real-time.
 
