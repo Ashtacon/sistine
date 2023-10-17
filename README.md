@@ -1,4 +1,4 @@
-# MQTT Dashboard
+# Simple MQTT Dashboard
 
 ![Project Banner](https://res.cloudinary.com/practicaldev/image/fetch/s--nLHy8W7u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6ahv1rptg4t1zhbn2of.png)
 
